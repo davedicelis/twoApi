@@ -1,4 +1,4 @@
-const URL_API = 'https://api.thecatapi.com/v1/images/search?limit=3'
+const URL_API = 'https://api.thecatapi.com/v1/images/search?limit=3&api_key=live_VsMABMSQbdROhoEevOmZ2STotNxDg00fwXek5wBTMG4AvECYpSFs4DUVcxqMoKQP';
 const boton = document.querySelector('#recargar')
 
 
